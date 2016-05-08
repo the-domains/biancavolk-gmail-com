@@ -1,0 +1,28 @@
+name: biancavolk@gmail.com
+favicon: null
+layout_spectrum: 0.6983512141741812
+typography_spectrum: 0.48985757026821375
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.24001210066489875
+  lightness: 0.4338200076017529
+  saturation: 0.6129646098706871
+  rhythmicContrast: 0.8028509551659226
+purpose: []
